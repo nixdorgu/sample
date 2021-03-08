@@ -2,4 +2,4 @@
 
 A sample Flutter app showing both REST and GraphQL implementations of querying. 
 
-**Note: This is not optimized *
+**Note: This is not optimized**
